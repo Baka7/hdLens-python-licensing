@@ -1,4 +1,4 @@
-FROM python:3.9.18-slim-bullseye
+FROM python:3.9-slim-bookworm
 
 ENV LICENSE_PORT=5000
 ENV LICENSE_PORT_EXTERNAL=5001
